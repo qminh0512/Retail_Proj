@@ -4,7 +4,7 @@ This project focuses on cleaning and analyzing retail transaction data using SQL
 
 ## Dataset
 - Retail transaction data from a UK-based online shop  
-- Around 500 thousands rows  
+- Around 600 thousands rows  
 - Includes information such as Invoice, Product, Quantity, Price, Customer ID, and Country  
 
 ## Objectives
