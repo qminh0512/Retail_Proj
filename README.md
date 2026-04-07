@@ -23,7 +23,7 @@ Steps performed:
 - Handled null values  
 - Converted data types  
 - Removed or filtered invalid transactions for analysis
-![Clean data](screendhots/cleanDataCols)
+![Clean data](screenshots/cleanDataCols)
 
 ## Analysis
 Some basic analyses were performed:
