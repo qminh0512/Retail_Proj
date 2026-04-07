@@ -23,16 +23,16 @@ Steps performed:
 - Handled null values  
 - Converted data types  
 - Removed or filtered invalid transactions for analysis
-![Clean data](screendhots/cleanData)
+![Clean data](screendhots/cleanDataCols)
 
 ## Analysis
 Some basic analyses were performed:
 - Total revenue and number of orders  
 - Monthly revenue trend
-  (screenshots/monthRevenue)
+  ![](screenshots/monthRevenues)
 - Top products by sales  
 - Top customers by revenue
-  (screenshots/topCustomers)
+  ![](screenshots/topCustomers)
 - Revenue by country  
 
 ## SQL Techniques Used
