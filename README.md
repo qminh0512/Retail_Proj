@@ -17,19 +17,22 @@ The dataset contains some issues such as:
 - Missing values (e.g. Customer ID, Description)  
 - Cancelled invoices (Invoice starting with 'C')  
 - Invalid values (Quantity <= 0, Price <= 0)
-- ![Unclean data](screenshots/uncleanedData)
+![Unclean data](screenshots/uncleanedData)
 
 Steps performed:
 - Handled null values  
 - Converted data types  
-- Removed or filtered invalid transactions for analysis  
+- Removed or filtered invalid transactions for analysis
+![Clean data](screendhots/cleanData)
 
 ## Analysis
 Some basic analyses were performed:
 - Total revenue and number of orders  
-- Monthly revenue trend  
+- Monthly revenue trend
+  (screenshots/monthRevenue)
 - Top products by sales  
-- Top customers by revenue  
+- Top customers by revenue
+  (screenshots/topCustomers)
 - Revenue by country  
 
 ## SQL Techniques Used
