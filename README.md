@@ -16,7 +16,8 @@ This project focuses on cleaning and analyzing retail transaction data using SQL
 The dataset contains some issues such as:
 - Missing values (e.g. Customer ID, Description)  
 - Cancelled invoices (Invoice starting with 'C')  
-- Invalid values (Quantity <= 0, Price <= 0)  
+- Invalid values (Quantity <= 0, Price <= 0)
+- ![Unclean data](screenshots/uncleanedData)
 
 Steps performed:
 - Handled null values  
